@@ -12,7 +12,7 @@ $sidebar-color: #ffea00;
 .page {color: #000000;}
 h1, h2, h3, h4, h5, h6 {color: #000000 !important;}
 .navigation-list-link {color: #000000;}
-body {background-color: #ffea00;}
+body {background-color: #ffea00 !important;}
 .search-input-wrap {background-color: #ffea00;}
 .search-input {background-color: #ffea00;}
 
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {color: #E4E6EB !important;}
 .navigation-list-link {color: #E4E6EB;}
 //.navigation-list-link:hover {background: #3A3B3C;}
 .navigation-list-link.active {background: #FFFFFF !important; color: #000000 !important;}
-body {background-color: black;}
+body {background-color: black !important;}
 .search-input-wrap {background-color: black;}
 .search-input {background-color: black;}
 .highlight {background-color: #18191A;}
