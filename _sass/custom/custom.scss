@@ -3,6 +3,11 @@
 
 .breadcrumb-nav {display: none;}
 
+// remove underline from image link
+a:not([class]) {
+background-image: none !important;
+}
+
 $sidebar-color: #ffea00;
 .page {background-color: #ffea00;}
 .side-bar {background-color: #ffea00;}
