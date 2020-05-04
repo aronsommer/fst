@@ -12,6 +12,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <img src="images/works1/1.jpg" loading="lazy" alt="" width="512" height="769">
 
-<img src="images/works1/1.jpg" loading="lazy" alt="" width="512" height="769">
+<img src="images/works1/2.jpg" loading="lazy" alt="" width="512" height="769">
 
-<img src="images/works1/1.jpg" loading="lazy" alt="" width="512" height="769">
+<img src="images/works1/3.jpg" loading="lazy" alt="" width="512" height="769">
