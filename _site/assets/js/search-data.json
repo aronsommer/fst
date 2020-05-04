@@ -1,0 +1,40 @@
+{
+  
+  "0": {
+    "title": "About",
+    "content": "About . Fabian Stamm was born in 1983 in Schaffhausen, Switzerland. After an apprenticeship as a desktop publisher, for two years he was working regularly as a photographer for a regional newspaper. In 2011 he graduated the course “Journalistic Photography “ at MAZ - the Swiss School of Journalism in Lucerne. Own projects, mainly in the Middle East but also features in Switzerland followed. 2012 he won the Globetrotter World Photo Award, which enabled him to realize a long-term project in Northern Iraq. 2014 he won the Culture Prize of the Canton of Schaffhausen to realize the project “Tehran Paradise” in Iran. Fabian Stamms archive is hosted by KEYSTONE. He lives with his family in Winterthur. . Exhibitions . Dezember 2019 «Sons of Jimi», Fotografie - Audio -Rauminstallation. Dezember-Ausstellung: Gruppenausstellung in der Kunsthalle Winterthur . | Dezember 2018 «Tehran Paradise» erscheint als Buch. Verlag Edition Vogelfrei. . | November 2018 «Meschyhirja» Fotografie und Text. Jahresausstellung ERNTE18 im Museum zu Allerheiligen in Schaffhausen. . | .",
+    "url": "http://localhost:4000/about.html",
+    "relUrl": "/about.html"
+  }
+  ,"1": {
+    "title": "Photography",
+    "content": ". . .",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  }
+  ,"2": {
+    "title": "Moodboard",
+    "content": "Moodboard . Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. .",
+    "url": "http://localhost:4000/moodboard.html",
+    "relUrl": "/moodboard.html"
+  }
+  ,"3": {
+    "title": "Project 1",
+    "content": "Project 1 . Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. . . . .",
+    "url": "http://localhost:4000/works/works1.html",
+    "relUrl": "/works/works1.html"
+  }
+  ,"4": {
+    "title": "Project 2",
+    "content": "Project 2 . Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. . . . .",
+    "url": "http://localhost:4000/works/works2.html",
+    "relUrl": "/works/works2.html"
+  }
+  ,"5": {
+    "title": "Project 3",
+    "content": "Project 3 . Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. . . . .",
+    "url": "http://localhost:4000/works/works3.html",
+    "relUrl": "/works/works3.html"
+  }
+  
+}

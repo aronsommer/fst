@@ -1,0 +1,17 @@
+---
+title: Project 3
+parent: Photography
+has_children: false
+nav_order: 3
+---
+
+# Project 3
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{: .fs-6 .fw-300 }
+
+<img src="images/works1/1.jpg" loading="lazy" alt="" width="256" height="384">
+
+<img src="images/works1/2.jpg" loading="lazy" alt="" width="256" height="384">
+
+<img src="images/works1/3.jpg" loading="lazy" alt="" width="256" height="384">
